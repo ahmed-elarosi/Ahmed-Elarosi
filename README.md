@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ahmed Elarosi
 
-<p><em> I'm a junior software developer with a passion for building cool web apps that solve problems. 😊</br>
+<p><em> I'm a software developer passionate about creating innovative web applications and automation systems that solve real-world problems efficiently.😊</br>
 </em></p>
 
 ```javascript
