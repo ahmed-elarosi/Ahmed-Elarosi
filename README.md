@@ -1,24 +1,45 @@
-### Hi there 👋 I am Ahmed Elarosi
+# 👋 Hi, I'm Ahmed Elarosi
 
-<p><em> I'm a software developer passionate about creating innovative web applications and automation systems that solve real-world problems efficiently.😊</br>
-</em></p>
+💻 **Software Developer | Backend & Fullstack Engineer**  
+🌍 Based in Rosenheim, Germany  
+📫 [My Digital Resume](https://elarosiresume.streamlit.app)
 
-```javascript
-const AhmedElarosi = {
-  pronouns: "he" | "him",
+---
 
-  programming: ["Python", "JavaScript", "TypeScript", "Node.js", "Bash scripting"],
+## 🚀 About Me
 
-  webDevelopment: {
-    frontend: ["React", "HTML", "CSS", "Web Components"],
-    backend: ["Flask", "Django", "Streamlit", "Express", "REST APIs"]
-  },
+I'm a passionate software developer with a strong background in business and finance.  
+I build reliable, scalable web applications and data-driven automation systems that solve real-world problems efficiently.
 
-  dataPipelines: ["MongoDB", "SQL", "Data Extraction", "Automation"],
+---
 
-  devOps: ["Docker", "Kubernetes", "Jenkins", "Git", "Microservices", "CI/CD", "Linux", "AWS"],
+## 🛠️ Tech Stack
 
-  softSkills: ["Team player", "Problem solving", "Documentation", "Deliver results"]
-};
+### 👨‍💻 Programming & Scripting
+`Python` • `JavaScript` • `TypeScript` • `Node.js` • `Express` • `Bash scripting`
 
-```
+### 🌐 Web Development
+`React` • `HTML` • `CSS` • `Web Components`  
+`Flask` • `Django` • `Streamlit` • `REST APIs`
+
+### 🗃️ Data Pipelines
+`MongoDB` • `SQL` • `Data Extraction` • `Automation`
+
+### ☁️ DevOps & Cloud
+`Docker` • `Kubernetes` • `Jenkins` • `Git`  
+`Microservices` • `CI/CD` • `Linux` • `AWS`
+
+---
+
+## 🧠 Soft Skills
+✔️ Team Player  
+✔️ Problem Solver  
+✔️ Results-Oriented  
+✔️ Strong Documentation Practices
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/ahmedelarosi](https://linkedin.com/in/ahmedelarosi)
+- Resume: [elarosiresume.streamlit.app](https://elarosiresume.streamlit.app)
