@@ -4,22 +4,21 @@
 </em></p>
 
 ```javascript
-const about me = {
-   pronouns: "he" | "him",
+const AhmedElarosi = {
+  pronouns: "he" | "him",
 
-   Programming_Languages: ["Python", "Javascript"],   
+  programming: ["Python", "JavaScript", "TypeScript", "Node.js", "Bash scripting"],
 
-   Web_Development: {
-         Js: ["React", "TypeScript", "Web Components"],
-         Css: ["Bootstrap", "Material UI", "Sass", "Styled-components"],
-         UI/UX: ["Figma"]
-      },
+  webDevelopment: {
+    frontend: ["React", "HTML", "CSS", "Web Components"],
+    backend: ["Flask", "Django", "Streamlit", "Express", "REST APIs"]
+  },
 
-   DevOps_Tools: ["Jenkins", "Docker", "Kafka", "MongoDB"],
+  dataPipelines: ["MongoDB", "SQL", "Data Extraction", "Automation"],
 
-   Version_Control: ["Git"], 
+  devOps: ["Docker", "Kubernetes", "Jenkins", "Git", "Microservices", "CI/CD", "Linux", "AWS"],
 
-   Other: ["Agile Development", "Project Management"], 
-   
+  softSkills: ["Team player", "Problem solving", "Documentation", "Deliver results"]
 };
+
 ```
