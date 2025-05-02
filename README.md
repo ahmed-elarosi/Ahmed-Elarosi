@@ -41,5 +41,5 @@ I build reliable, scalable web applications and data-driven automation systems t
 
 ## 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/ahmedelarosi](https://linkedin.com/in/ahmedelarosi)
+- LinkedIn: [linkedin.com/in/ahmedelarosi](https://www.linkedin.com/in/ahmed-elarosi/)
 - Resume: [elarosiresume.streamlit.app](https://elarosiresume.streamlit.app)
