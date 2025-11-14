@@ -16,7 +16,7 @@ I build reliable, scalable web applications and data-driven automation systems t
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Scripting
-`Python` • `JavaScript` • `TypeScript` • `Node.js` • `Express` • `Bash scripting`
+`Python` • `JavaScript` • `TypeScript` • `Java` • `Node.js` • `Express` • `Bash scripting`
 
 ### 🌐 Web Development
 `React` • `HTML` • `CSS` • `Web Components`  
