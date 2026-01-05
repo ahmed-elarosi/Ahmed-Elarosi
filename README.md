@@ -2,8 +2,6 @@
 
 💻 **Software Developer | Backend & Fullstack Engineer**  
 🌍 Based in Rosenheim, Germany  
-📫 [My Digital Resume](https://elarosiresume.streamlit.app)
-
 ---
 
 ## 🚀 About Me
